@@ -1,0 +1,153 @@
+{
+    "nav": {
+        "home": "Home",
+        "products": "Our Products",
+        "promos": "Promotions",
+        "stickers": "Our Stickers",
+        "print": "SRED PRINT",
+        "contact": "Contact"
+    },
+    "hero": {
+        "leader": "Leader in Industrial Packaging",
+        "welcome": "Welcome to Raies",
+        "and_decors": "Packaging & Decor",
+        "desc": "Raies Packaging and Decor (SRED) offers bespoke packaging and decoration solutions, combining optimal protection, innovative design, and careful finishes. Specializing in pastry packaging, as well as decors for births and birthdays, SRED supports its clients with unique creations that enhance every product and event.",
+        "btn_products": "Discover our products",
+        "btn_contact": "Contact us"
+    },
+    "stats": {
+        "years": "Years of Excellence",
+        "clients": "Loyal Clients",
+        "projects": "Projects Delivered",
+        "support": "Dedicated Support"
+    },
+    "features": {
+        "title": "Why Choose SRED?",
+        "desc": "We are committed to providing excellence at every step of your supply chain.",
+        "tailor_made": "Tailor Made",
+        "tailor_made_desc": "Solutions adapted to your exact dimensions and specifications.",
+        "sustainable": "Sustainable Materials",
+        "sustainable_desc": "A rigorous selection of environmentally friendly materials.",
+        "logistics": "Efficient Logistics",
+        "logistics_desc": "On-time delivery and optimized management of your stocks."
+    },
+    "promos": {
+        "title": "Special Offers",
+        "subtitle": "Don't miss our current promotions",
+        "flash": "Flash Sale",
+        "enjoy": "Enjoy it"
+    },
+    "featured": {
+        "title": "Featured Products",
+        "subtitle": "Discover a selection of our best achievements.",
+        "view_all": "View all"
+    },
+    "products": {
+        "title": "Our Catalog",
+        "subtitle": "Explore our full range of packaging and decoration solutions.",
+        "search": "Search",
+        "search_placeholder": "Name, description...",
+        "category": "Category",
+        "all_categories": "All Categories",
+        "active_filters": "Active Filters",
+        "clear_all": "Clear all",
+        "no_products": "No products match your search.",
+        "clear_filters": "Clear filters",
+        "error": "An error occurred while loading products.",
+        "retry": "Retry"
+    },
+    "product_detail": {
+        "back_to_products": "Back to products",
+        "high_resistance": "High resistance materials",
+        "eu_standards": "Compliance with EU standards",
+        "bulk_available": "Available in bulk",
+        "add_to_selection": "Add to my selection",
+        "remove_from_selection": "Remove from my selection",
+        "view_selection_order": "View selection & Order"
+    },
+    "stickers": {
+        "new_service": "New Service",
+        "title": "Our Sticker Catalogs",
+        "description": "We also print stickers for birthdays, weddings, births and other special occasions.",
+        "download": "Download PDF",
+        "view": "View",
+        "categories": {
+            "anniversaries": "Birthdays",
+            "weddings": "Weddings",
+            "births": "Births",
+            "events": "Events",
+            "ramadan": "Ramadan",
+            "valentines": "Valentine's Day"
+        },
+        "available_catalogs": "Available Catalogs",
+        "coming_soon": "Upcoming catalogs coming soon.",
+        "general_catalog_title": "Our General Catalog",
+        "general_catalog_desc": "Discover all our sticker designs",
+        "contact_whatsapp": "Contact us on WhatsApp",
+        "contact_phone": "216 28 858 245"
+    },
+    "contact": {
+        "title": "Contact Us",
+        "subtitle": "A question? A quote? Our team is at your service.",
+        "info_title": "Contact Details",
+        "info_subtitle": "Feel free to contact us directly or via the form.",
+        "address_label": "Address",
+        "address_value": "Rue Bologne, Sousse 4000",
+        "maps_link": "https://www.google.com/maps/dir/Bou+Jaafar+Beach,+Sousse/Ste+raies+d'emballage+et+decors,+Rue+Bologne,+Boulogne-Billancourt+4000/@35.8311856,10.6262518,14.91z/data=!4m13!4m12!1m5!1m1!1s0x1302759e8296e7bf:0xaa8240ab865564b5!2m2!1d10.6381321!2d35.8359302!1m5!1m1!1s0x1302755a576d22af:0x52738f1d2fda6aef!2m2!1d10.6397444!2d35.8318531?entry=ttu&g_ep=EgoyMDI2MDEyNy4wIKXMDSoKLDEwMDc5MjA3MUgBUAM%3D",
+        "phone_label": "Phone",
+        "email_label": "Email",
+        "social_label": "Follow Us",
+        "form_title": "Send us a Message",
+        "name_label": "Full Name",
+        "name_placeholder": "Your name",
+        "phone_form_label": "Phone Number",
+        "phone_form_placeholder": "+216 -- --- ---",
+        "message_label": "Your message",
+        "message_placeholder": "How can we help you?",
+        "send_btn": "Send Message",
+        "sending": "Sending...",
+        "success_title": "Message sent!",
+        "success_desc": "We will get back to you as soon as possible.",
+        "error_title": "Error",
+        "order_item_prefix": "Hello, I would like to request a quote for the following product:",
+        "order_items_prefix": "Hello, I would like to request a quote for the following products:",
+        "selection_title": "Your Selection",
+        "selection_empty": "Your selection is empty.",
+        "selection_clear": "Clear selection",
+        "order_now": "Request a Quote via WhatsApp"
+    },
+    "product_card": {
+        "selected": "Selected",
+        "learn_more": "Learn more",
+        "select": "Select",
+        "remove": "Remove"
+    },
+    "selection_float": {
+        "title": "Your Selection",
+        "item_count_singular": "item selected",
+        "item_count_plural": "items selected",
+        "clear": "Clear selection",
+        "order": "Request a Quote"
+    },
+    "footer": {
+        "desc": "Your trusted partner for innovative and sustainable packaging solutions. Quality and service at the heart of our commitment.",
+        "nav_title": "Navigation",
+        "contact_title": "Contact Us",
+        "newsletter_title": "Newsletter",
+        "newsletter_desc": "Subscribe to receive our latest news.",
+        "email_placeholder": "Your email",
+        "copyright": "Raies Packaging and Decor Company. All rights reserved."
+    },
+    "print": {
+        "title": "Industrial Printing Service",
+        "subtitle": "Personalize your packaging with SRED PRINT",
+        "description": "We offer a high-quality industrial printing service on kraft bags and cake boxes. Our specialized team uses advanced technologies to guarantee a professional result that enhances your brand.",
+        "kraft_bags": "Printing on Kraft Bags",
+        "boxes": "Printing on Cake Boxes",
+        "new_quality": "New Quality, Same Passion",
+        "team": "Specialized Team",
+        "technology": "Advanced Technology",
+        "contact_whatsapp": "Contact our Printing Team",
+        "whatsapp_button": "Request a Quote for Printing"
+    }
+}

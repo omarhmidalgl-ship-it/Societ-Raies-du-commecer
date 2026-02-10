@@ -1,0 +1,25 @@
+{
+  "name": "sred-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "client",
+    "server",
+    "shared"
+  ],
+  "scripts": {
+    "dev": "concurrently \"npm run dev -w server\" \"npm run dev -w client\"",
+    "build": "npm run build -w server && npm run build -w client",
+    "server:dev": "npm run dev -w server",
+    "client:dev": "npm run dev -w client",
+    "db:push": "npm run db:push -w server"
+  },
+  "devDependencies": {
+    "@types/nodemailer": "^7.0.5",
+    "concurrently": "^9.1.0"
+  },
+  "dependencies": {
+    "memorystore": "^1.6.7"
+  }
+}

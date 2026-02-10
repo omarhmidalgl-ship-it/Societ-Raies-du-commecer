@@ -1,0 +1,154 @@
+{
+    "nav": {
+        "home": "الرئيسية",
+        "products": "منتجاتنا",
+        "promos": "العروض",
+        "stickers": "ملصقاتنا",
+        "print": "رايس للطباعة",
+        "contact": "اتصل بنا"
+    },
+    "hero": {
+        "leader": "الرائد في التغليف الصناعي",
+        "welcome": "مرحباً بكم في رايس",
+        "and_decors": "للتغليف والديكور",
+        "desc": "تقدم شركة رايس للتغليف والديكور (SRED) حلول تغليف وديكور مخصصة، تجمع بين الحماية المثلى، التصميم المبتكر، واللمسات النهائية الدقيقة. متخصصة في تغليف الحلويات، بالإضافة إلى ديكورات المواليد وأعياد الميلاد، ترافق SRED عملاءها بإبداعات فريدة تبرز قيمة كل منتج وكل حدث.",
+        "btn_products": "اكتشف منتجاتنا",
+        "btn_contact": "اتصل بنا"
+    },
+    "stats": {
+        "years": "سنوات من التميز",
+        "clients": "عملاء أوفياء",
+        "projects": "مشاريع منجزة",
+        "support": "دعم مخصص"
+    },
+    "features": {
+        "title": "لماذا تختار SRED؟",
+        "desc": "نحن ملتزمون بتقديم التميز في كل خطوة من سلسلة التوريد الخاصة بك.",
+        "tailor_made": "على المقاس",
+        "tailor_made_desc": "حلول تتكيف مع أبعادكم ومواصفاتك الدقيقة.",
+        "sustainable": "مواد مستدامة",
+        "sustainable_desc": "اختيار صارم للمواد الصديقة للبيئة.",
+        "logistics": "لوجستيات فعالة",
+        "logistics_desc": "التوصيل في الوقت المحدد والإدارة المثلى لمخزونك."
+    },
+    "promos": {
+        "title": "عروض خاصة",
+        "subtitle": "لا تفوتوا عروضنا الحالية",
+        "flash": "عرض سريع",
+        "enjoy": "استفد الآن"
+    },
+    "featured": {
+        "title": "منتجاتنا المختارة",
+        "subtitle": "اكتشف مجموعة مختارة من أفضل إنجازاتنا.",
+        "view_all": "عرض الكل"
+    },
+    "products": {
+        "title": "كتالوج منتجاتنا",
+        "subtitle": "استكشف مجموعتنا الكاملة من حلول التغليف والديكور.",
+        "search": "بحث",
+        "search_placeholder": "الاسم، الوصف...",
+        "category": "الفئة",
+        "all_categories": "جميع الفئات",
+        "quantity": "الكمية",
+        "active_filters": "الفلاتر النشطة",
+        "clear_all": "مسح الكل",
+        "no_products": "لا توجد منتجات تطابق بحثك.",
+        "clear_filters": "مسح الفلاتر",
+        "error": "حدث خطأ أثناء تحميل المنتجات.",
+        "retry": "إعادة المحاولة"
+    },
+    "product_detail": {
+        "back_to_products": "العودة إلى المنتجات",
+        "high_resistance": "مواد عالية المقاومة",
+        "eu_standards": "مطابق للمعايير الأوروبية",
+        "bulk_available": "متوفر بكميات كبيرة",
+        "add_to_selection": "أضف إلى اختياري",
+        "remove_from_selection": "إزالة من اختياري",
+        "view_selection_order": "عرض اختياري وطلب عرض سعر"
+    },
+    "stickers": {
+        "new_service": "خدمة جديدة",
+        "title": "كتالوج ملصقاتنا",
+        "description": "نقوم أيضًا بطباعة ملصقات لأعياد الميلاد، حفلات الزفاف، المواليد والمناسبات الخاصة الأخرى.",
+        "download": "تحميل PDF",
+        "view": "عرض",
+        "categories": {
+            "anniversaries": "أعياد ميلاد",
+            "weddings": "أفراح",
+            "births": "مواليد",
+            "events": "مناسبات",
+            "ramadan": "رمضان",
+            "valentines": "عيد الحب"
+        },
+        "available_catalogs": "الكتالوجات المتاحة",
+        "coming_soon": "المزيد من الكتالوجات قريباً.",
+        "general_catalog_title": "كتالوجنا العام",
+        "general_catalog_desc": "اكتشف جميع تصاميم الملصقات لدينا",
+        "contact_whatsapp": "اتصل بنا على واتساب",
+        "contact_phone": "216 28 858 245"
+    },
+    "contact": {
+        "title": "اتصل بنا",
+        "subtitle": "سؤال؟ طلب عرض سعر؟ فريقنا في خدمتكم.",
+        "info_title": "معلومات الاتصال",
+        "info_subtitle": "لا تتردد في الاتصال بنا مباشرة أو عبر النموذج.",
+        "address_label": "العنوان",
+        "address_value": "نهج بولونيا، سوسة 4000",
+        "maps_link": "https://www.google.com/maps/dir/Bou+Jaafar+Beach,+Sousse/Ste+raies+d'emballage+et+decors,+Rue+Bologne,+Boulogne-Billancourt+4000/@35.8311856,10.6262518,14.91z/data=!4m13!4m12!1m5!1m1!1s0x1302759e8296e7bf:0xaa8240ab865564b5!2m2!1d10.6381321!2d35.8359302!1m5!1m1!1s0x1302755a576d22af:0x52738f1d2fda6aef!2m2!1d10.6397444!2d35.8318531?entry=ttu&g_ep=EgoyMDI2MDEyNy4wIKXMDSoKLDEwMDc5MjA3MUgBUAM%3D",
+        "phone_label": "الهاتف",
+        "email_label": "البريد الإلكتروني",
+        "social_label": "تابعنا",
+        "form_title": "أرسل لنا رسالة",
+        "name_label": "الاسم الكامل",
+        "name_placeholder": "اسمك",
+        "phone_form_label": "رقم الهاتف",
+        "phone_form_placeholder": "+216 -- --- ---",
+        "message_label": "رسالتك",
+        "message_placeholder": "كيف يمكننا مساعدتك؟",
+        "send_btn": "إرسال الرسالة",
+        "sending": "جاري الإرسال...",
+        "success_title": "تم إرسال الرسالة!",
+        "success_desc": "سنقوم بالرد عليك في أقرب وقت ممكن.",
+        "error_title": "خطأ",
+        "order_item_prefix": "مرحباً، أود طلب عرض سعر للمنتج التالي:",
+        "order_items_prefix": "مرحباً، أود طلب عرض سعر للمنتجات التالية:",
+        "selection_title": "اختيارك",
+        "selection_empty": "اختيارك فارغ.",
+        "selection_clear": "مسح الاختيار",
+        "order_now": "اطلب عرض سعر عبر واتساب"
+    },
+    "product_card": {
+        "selected": "مختار",
+        "learn_more": "اقرأ المزيد",
+        "select": "اختيار",
+        "remove": "حذف"
+    },
+    "selection_float": {
+        "title": "اختيارك",
+        "item_count_singular": "منتج مختار",
+        "item_count_plural": "منتجات مختارة",
+        "clear": "مسح الاختيار",
+        "order": "اطلب عرض السعر"
+    },
+    "footer": {
+        "desc": "شريكك الموثوق لحلول التغليف المبتكرة والمستدامة. الجودة والخدمة في قلب التزامنا.",
+        "nav_title": "التنقل",
+        "contact_title": "اتصل بنا",
+        "newsletter_title": "النشرة الإخبارية",
+        "newsletter_desc": "اشترك لتلقي آخر أخبارنا.",
+        "email_placeholder": "بريدك الإلكتروني",
+        "copyright": "شركة رايس للتغليف والديكور. جميع الحقوق محفوظة."
+    },
+    "print": {
+        "title": "خدمة الطباعة الصناعية",
+        "subtitle": "قم بتخصيص عبواتك مع SRED PRINT",
+        "description": "نحن نقدم خدمة طباعة صناعية عالية الجودة على الأكياس الورقية (kraft) وعلب الحلويات. يستخدم فريقنا المتخصص تقنيات متطورة لضمان نتيجة احترافية تعزز هويتك التجارية.",
+        "kraft_bags": "الطباعة على الأكياس الورقية",
+        "boxes": "الطباعة على علب الحلويات",
+        "new_quality": "جودة جديدة، نفس الشغف",
+        "team": "فريق متخصص",
+        "technology": "تكنولوجيا متطورة",
+        "contact_whatsapp": "اتصل بفريق الطباعة",
+        "whatsapp_button": "اطلب عرض سعر للطباعة"
+    }
+}

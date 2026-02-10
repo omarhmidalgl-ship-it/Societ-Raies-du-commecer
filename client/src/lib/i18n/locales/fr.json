@@ -1,0 +1,154 @@
+{
+    "nav": {
+        "home": "Accueil",
+        "products": "Nos Produits",
+        "promos": "Promotions",
+        "stickers": "Nos Stickers",
+        "print": "SRED PRINT",
+        "contact": "Contact"
+    },
+    "hero": {
+        "leader": "Leader en Emballage Industriel",
+        "welcome": "Bienvenue chez",
+        "and_decors": "d'emballage et décors",
+        "desc": "La Société Raies d’Emballages et Décors (SRED) propose des solutions d’emballage et de décoration sur mesure, alliant protection optimale, design innovant et finitions soignées. Spécialisée dans l’emballage de pâtisserie, ainsi que dans les décors pour naissances et anniversaires, SRED accompagne ses clients avec des créations uniques qui valorisent chaque produit et chaque événement.",
+        "btn_products": "Découvrir nos produits",
+        "btn_contact": "Contactez-nous"
+    },
+    "stats": {
+        "years": "Ans d'Excellence",
+        "clients": "Clients Fidèles",
+        "projects": "Projets Livrés",
+        "support": "Support Dédié"
+    },
+    "features": {
+        "title": "Pourquoi Choisir SRED ?",
+        "desc": "Nous nous engageons à fournir l'excellence à chaque étape de votre chaîne d'approvisionnement.",
+        "tailor_made": "Sur Mesure",
+        "tailor_made_desc": "Des solutions adaptées à vos dimensions et spécifications exactes.",
+        "sustainable": "Matériaux Durables",
+        "sustainable_desc": "Une sélection rigoureuse de matériaux respectueux de l'environnement.",
+        "logistics": "Logistique Efficace",
+        "logistics_desc": "Livraison ponctuelle et gestion optimisée de vos stocks."
+    },
+    "promos": {
+        "title": "Offres Spéciales",
+        "subtitle": "Ne manquez pas nos promotions du moment",
+        "flash": "Promo Flash",
+        "enjoy": "En profiter"
+    },
+    "featured": {
+        "title": "Nos Produits Phares",
+        "subtitle": "Découvrez une sélection de nos meilleures réalisations.",
+        "view_all": "Tout voir"
+    },
+    "products": {
+        "title": "Notre Catalogue",
+        "subtitle": "Explorez notre gamme complète de solutions d'emballage et de décoration.",
+        "search": "Recherche",
+        "search_placeholder": "Nom, description...",
+        "category": "Catégorie",
+        "all_categories": "Toutes les catégories",
+        "quantity": "Quantité",
+        "active_filters": "Filtres actifs",
+        "clear_all": "Tout effacer",
+        "no_products": "Aucun produit ne correspond à votre recherche.",
+        "clear_filters": "Effacer les filtres",
+        "error": "Une erreur est survenue lors du chargement des produits.",
+        "retry": "Réessayer"
+    },
+    "product_detail": {
+        "back_to_products": "Retour aux produits",
+        "high_resistance": "Matériaux haute résistance",
+        "eu_standards": "Conformité aux normes européennes",
+        "bulk_available": "Disponible en gros volume",
+        "add_to_selection": "Ajouter à ma sélection",
+        "remove_from_selection": "Retirer de ma sélection",
+        "view_selection_order": "Voir ma sélection & Demander un devis"
+    },
+    "stickers": {
+        "new_service": "Nouveau Service",
+        "title": "Nos Catalogues Stickers",
+        "description": "Nous imprimons également des stickers pour anniversaire, mariage, naissance et autres occasions spéciales.",
+        "download": "Télécharger le PDF",
+        "view": "Consulter",
+        "categories": {
+            "anniversaries": "Anniversaires",
+            "weddings": "Mariages",
+            "births": "Naissances",
+            "events": "Événements",
+            "ramadan": "Ramadan",
+            "valentines": "Saint Valentin"
+        },
+        "available_catalogs": "Catalogues disponibles",
+        "coming_soon": "Bientôt plus de catalogues disponibles.",
+        "general_catalog_title": "Notre Catalogue Général",
+        "general_catalog_desc": "Découvrez tous nos modèles de stickers",
+        "contact_whatsapp": "Contactez-nous sur WhatsApp",
+        "contact_phone": "216 28 858 245"
+    },
+    "contact": {
+        "title": "Contactez-nous",
+        "subtitle": "Une question ? Un devis ? Notre équipe est à votre écoute.",
+        "info_title": "Nos Coordonnées",
+        "info_subtitle": "N'hésitez pas à nous contacter directement ou via le formulaire.",
+        "address_label": "Adresse",
+        "address_value": "Rue Bologne, Sousse 4000",
+        "maps_link": "https://www.google.com/maps/dir/Bou+Jaafar+Beach,+Sousse/Ste+raies+d'emballage+et+decors,+Rue+Bologne,+Boulogne-Billancourt+4000/@35.8311856,10.6262518,14.91z/data=!4m13!4m12!1m5!1m1!1s0x1302759e8296e7bf:0xaa8240ab865564b5!2m2!1d10.6381321!2d35.8359302!1m5!1m1!1s0x1302755a576d22af:0x52738f1d2fda6aef!2m2!1d10.6397444!2d35.8318531?entry=ttu&g_ep=EgoyMDI2MDEyNy4wIKXMDSoKLDEwMDc5MjA3MUgBUAM%3D",
+        "phone_label": "Téléphone",
+        "email_label": "Email",
+        "social_label": "Suivez-nous",
+        "form_title": "Envoyez-nous un Message",
+        "name_label": "Nom complet",
+        "name_placeholder": "Votre nom",
+        "phone_form_label": "Numéro de téléphone",
+        "phone_form_placeholder": "+216 -- --- ---",
+        "message_label": "Votre message",
+        "message_placeholder": "Comment pouvons-nous vous aider ?",
+        "send_btn": "Envoyer le message",
+        "sending": "Envoi en cours...",
+        "success_title": "Message envoyé !",
+        "success_desc": "Nous reviendrons vers vous dans les plus brefs délais.",
+        "error_title": "Erreur",
+        "order_item_prefix": "Bonjour, je souhaite demander un devis pour le produit suivant :",
+        "order_items_prefix": "Bonjour, je souhaite demander un devis pour les produits suivants :",
+        "selection_title": "Votre Sélection",
+        "selection_empty": "Votre sélection est vide.",
+        "selection_clear": "Vider la sélection",
+        "order_now": "Demander un devis via WhatsApp"
+    },
+    "product_card": {
+        "selected": "Sélectionné",
+        "learn_more": "En savoir plus",
+        "select": "Sélectionner",
+        "remove": "Retirer"
+    },
+    "selection_float": {
+        "title": "Votre Sélection",
+        "item_count_singular": "article sélectionné",
+        "item_count_plural": "articles sélectionnés",
+        "clear": "Vider la sélection",
+        "order": "Demander un devis"
+    },
+    "footer": {
+        "desc": "Votre partenaire de confiance pour des solutions d'emballage innovantes et durables. Qualité et service au cœur de notre commitment.",
+        "nav_title": "Navigation",
+        "contact_title": "Contactez-nous",
+        "newsletter_title": "Newsletter",
+        "newsletter_desc": "Inscrivez-vous pour recevoir nos dernières actualités.",
+        "email_placeholder": "Votre email",
+        "copyright": "Société Raies d'Emballages et Décors. Tous droits réservés."
+    },
+    "print": {
+        "title": "Service d'Impression Industrielle",
+        "subtitle": "Personnalisez vos emballages avec SRED PRINT",
+        "description": "Nous proposons un service d'impression industrielle de haute qualité sur les sacs kraft et les boîtes à gâteaux. Notre équipe spécialisée utilise des technologies de pointe pour garantir un résultat professionnel qui valorise votre marque.",
+        "kraft_bags": "Impression sur Sacs Kraft",
+        "boxes": "Impression sur Boîtes à Gâteaux",
+        "new_quality": "Nouvelle qualité, même passion",
+        "team": "Équipe Spécialisée",
+        "technology": "Technologie de Pointe",
+        "contact_whatsapp": "Contactez notre équipe d'imprimerie",
+        "whatsapp_button": "Demander un devis pour l'impression"
+    }
+}
