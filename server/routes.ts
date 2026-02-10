@@ -5,16 +5,15 @@ import type { Server } from "http";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-import { storage } from "./storage";
-import { api } from "shared/routes";
+import { storage } from "./storage.js";
+import { api } from "shared/routes.js";
 import { z } from "zod";
-import { insertProductSchema, insertMessageSchema, insertPromoSchema, insertSettingsSchema } from "shared/schema";
 import multer from "multer";
 import fs from "fs";
-import { setupAuth, hashPassword, comparePasswords } from "./auth";
+import { setupAuth, hashPassword, comparePasswords } from "./auth.js";
 import crypto from "crypto";
 import { sendResetCodeEmail, sendWelcomeEmail } from "./email";
-import { uploadImage } from "./cloudinary_util";
+import { uploadImage } from "./cloudinary_util.js";
 
 export async function registerRoutes(httpServer: Server, app: Express): Promise<Server> {
   setupAuth(app);
