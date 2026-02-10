@@ -34,4 +34,4 @@ COPY --from=builder /app/dist ./dist
 COPY --from=builder /app/attached_assets ./attached_assets
 
 # Run compiled JS (NO tsx)
-CMD ["node", "dist/server/index.js"]
+CMD ["node", "dist/index.js"]
