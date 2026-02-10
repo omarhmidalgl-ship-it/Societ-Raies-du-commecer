@@ -1,28 +1,31 @@
 {
-    "compilerOptions": {
-        "target": "ESNext",
-        "module": "ESNext",
-        "moduleResolution": "Node",
-        "strict": true,
-        "noEmitOnError": false,
-        "esModuleInterop": true,
-        "skipLibCheck": true,
-        "forceConsistentCasingInFileNames": true,
-        "outDir": "./dist",
-        "rootDir": "..",
-        "baseUrl": ".",
-        "paths": {
-            "@shared/*": [
-                "../shared/*"
-            ]
-        }
+  "compilerOptions": {
+    "target": "ES2022",
+
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+
+    "outDir": "./dist",
+    "rootDir": ".",
+
+    "baseUrl": ".",
+    "paths": {
+      "@shared/*": ["shared/*"]
     },
-    "include": [
-        "**/*",
-        "../shared/**/*"
-    ],
-    "exclude": [
-        "node_modules",
-        "dist"
-    ]
+
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  },
+
+  "include": [
+    "**/*.ts",
+    "shared/**/*.ts"
+  ],
+
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
 }
