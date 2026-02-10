@@ -1,9 +1,9 @@
-import "./env";
+import "./env.ts";
 import { drizzle as drizzlePg } from "drizzle-orm/node-postgres";
 import { drizzle as drizzleSqlite } from "drizzle-orm/better-sqlite3";
 import pg from "pg";
 import Database from "better-sqlite3";
-import { pgSchema, sqliteSchema } from "@shared/db-schema";
+import { pgSchema, sqliteSchema } from "shared/db-schema";
 
 if (!process.env.DATABASE_URL) {
   throw new Error(
