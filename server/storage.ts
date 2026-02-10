@@ -1,4 +1,4 @@
-import type { Product, InsertProduct, InsertMessage, Message, Promo, InsertPromo, User, InsertUser, Settings, InsertSettings, StickerCatalog, InsertStickerCatalog } from "@shared/schema";
+import type { Product, InsertProduct, InsertMessage, Message, Promo, InsertPromo, User, InsertUser, Settings, InsertSettings, StickerCatalog, InsertStickerCatalog } from "shared/schema";
 import { db, products, messages, promos, users, settings, stickerCatalogs } from "./db";
 import { eq, desc } from "drizzle-orm";
 
